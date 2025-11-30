@@ -63,7 +63,7 @@ This project successfully demonstrates the mechanics of Statistical Arbitrage an
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sports-arb-engine.git
+git clone https://github.com/Sohan-Suchdev/stat-arb-engine.git
 
 cd stat-arb-engine
 ```
@@ -78,4 +78,5 @@ pip install -r requirements.txt
 Run the simulation:
 ```bash
 python stat_arb_bot.py
+
 ```
